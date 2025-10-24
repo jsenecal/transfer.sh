@@ -7,7 +7,7 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8
 	github.com/ProtonMail/gopenpgp/v2 v2.5.2
 	github.com/PuerkitoBio/ghost v0.0.0-20160324114900-206e6e460e14
-	github.com/VojtechVitek/ratelimit v0.0.0-20160722140851-dc172bc0f6d2
+	github.com/VojtechVitek/ratelimit v0.0.0-20240725170347-ef93da26f297
 	github.com/aws/aws-sdk-go-v2 v1.18.0
 	github.com/aws/aws-sdk-go-v2/config v1.18.25
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.24
