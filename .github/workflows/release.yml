@@ -160,7 +160,7 @@ jobs:
             ./transfersh-${{ steps.get_filename.outputs.GIT_TAG }}-${{ steps.get_filename.outputs.ASSET_NAME }}/*
 
       - name: Upload binaries to release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         if: github.event_name == 'release'
         with:
           files: |
