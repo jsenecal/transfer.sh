@@ -18,7 +18,7 @@ require (
 	github.com/elazarl/go-bindata-assetfs v1.0.1
 	github.com/fatih/color v1.14.1
 	github.com/golang/gddo v0.0.0-20210115222349-20d68f94ee1f
-	github.com/gorilla/handlers v1.5.1
+	github.com/gorilla/handlers v1.5.2
 	github.com/gorilla/mux v1.8.0
 	github.com/microcosm-cc/bluemonday v1.0.23
 	github.com/russross/blackfriday/v2 v2.1.0
