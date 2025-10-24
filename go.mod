@@ -6,6 +6,7 @@ require (
 	github.com/Aetherinox/go-virustotal v0.0.0-20250520093927-8c526def614c
 	github.com/ProtonMail/go-crypto v1.3.0
 	github.com/ProtonMail/gopenpgp/v2 v2.9.0
+	github.com/ProtonMail/gopenpgp/v3 v3.3.0
 	github.com/PuerkitoBio/ghost v0.0.0-20160324114900-206e6e460e14
 	github.com/VojtechVitek/ratelimit v0.0.0-20240725170347-ef93da26f297
 	github.com/aws/aws-sdk-go-v2 v1.18.0
