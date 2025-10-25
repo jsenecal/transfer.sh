@@ -32,7 +32,7 @@ require (
 	golang.org/x/text v0.22.0
 	google.golang.org/api v0.114.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
-	storj.io/common v0.0.0-20230301105927-7f966760c100
+	storj.io/common 19bf6a9f274a
 	storj.io/uplink v1.10.0
 )
 
