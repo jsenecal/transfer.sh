@@ -19,7 +19,7 @@ jobs:
           - tip
     name: Test with ${{ matrix.go_version }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
       - name: Install Go ${{ matrix.go_version }}
         if: ${{ matrix.go_version != 'tip' }}
         uses: actions/setup-go@master
@@ -47,7 +47,7 @@ jobs:
     name: Linting
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
       - uses: actions/setup-go@master
         with:
           go-version: '1.25'
