@@ -25,7 +25,7 @@ require (
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/tg123/go-htpasswd v1.2.1
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
-	github.com/urfave/cli/v2 v2.25.3
+	github.com/urfave/cli/v2 v2.27.7
 	golang.org/x/crypto v0.33.0
 	golang.org/x/net v0.26.0
 	golang.org/x/oauth2 v0.7.0
@@ -57,7 +57,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/calebcase/tmpfile v1.0.3 // indirect
 	github.com/cloudflare/circl v1.6.1 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/flynn/noise v1.0.0 // indirect
 	github.com/garyburd/redigo v1.6.4 // indirect
@@ -81,7 +81,7 @@ require (
 	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/spacemonkeygo/monkit/v3 v3.0.19 // indirect
 	github.com/vivint/infectious v0.0.0-20200605153912-25a574ae18a3 // indirect
-	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
+	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	github.com/zeebo/errs v1.3.0 // indirect
 	go.opencensus.io v0.24.0 // indirect
