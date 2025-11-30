@@ -30,7 +30,7 @@ require (
 	golang.org/x/net v0.26.0
 	golang.org/x/oauth2 v0.17.0
 	golang.org/x/text v0.22.0
-	google.golang.org/api v0.168.0
+	google.golang.org/api v0.256.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	storj.io/common v0.0.0-20240812101423-26b53789c348
 	storj.io/uplink v1.13.1
