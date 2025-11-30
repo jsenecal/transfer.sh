@@ -8,11 +8,11 @@ require (
 	github.com/ProtonMail/gopenpgp/v2 v2.9.0
 	github.com/PuerkitoBio/ghost v0.0.0-20160324114900-206e6e460e14
 	github.com/VojtechVitek/ratelimit v0.0.0-20240725170347-ef93da26f297
-	github.com/aws/aws-sdk-go-v2 v1.18.0
-	github.com/aws/aws-sdk-go-v2/config v1.18.25
-	github.com/aws/aws-sdk-go-v2/credentials v1.13.24
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.67
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.33.1
+	github.com/aws/aws-sdk-go-v2 v1.40.0
+	github.com/aws/aws-sdk-go-v2/config v1.32.2
+	github.com/aws/aws-sdk-go-v2/credentials v1.19.2
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.20.12
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.92.1
 	github.com/dutchcoders/go-clamd v0.0.0-20170520113014-b970184f4d9e
 	github.com/dutchcoders/transfer.sh-web v0.0.0-20221119114740-ca3a2621d2a6
 	github.com/elazarl/go-bindata-assetfs v1.0.1
