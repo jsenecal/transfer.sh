@@ -27,6 +27,7 @@ github.com/ProtonMail/gopenpgp/v2 v2.5.2 h1:97SjlWNAxXl9P22lgwgrZRshQdiEfAht0g3Z
 github.com/ProtonMail/gopenpgp/v2 v2.5.2/go.mod h1:52qDaCnto6r+CoWbuU50T77XQt99lIs46HtHtvgFO3o=
 github.com/ProtonMail/gopenpgp/v2 v2.9.0 h1:ruLzBmwe4dR1hdnrsEJ/S7psSBmV15gFttFUPP/+/kE=
 github.com/ProtonMail/gopenpgp/v2 v2.9.0/go.mod h1:IldDyh9Hv1ZCCYatTuuEt1XZJ0OPjxLpTarDfglih7s=
+github.com/ProtonMail/gopenpgp/v3 v3.3.0/go.mod h1:J+iNPt0/5EO9wRt7Eit9dRUlzyu3hiGX3zId6iuaKOk=
 github.com/PuerkitoBio/ghost v0.0.0-20160324114900-206e6e460e14 h1:3zOOc7WdrATDXof+h/rBgMsg0sAmZIEVHft1UbWHh94=
 github.com/PuerkitoBio/ghost v0.0.0-20160324114900-206e6e460e14/go.mod h1:+VFiaivV54Sa94ijzA/ZHQLoHuoUIS9hIqCK6f/76Zw=
 github.com/VojtechVitek/ratelimit v0.0.0-20160722140851-dc172bc0f6d2 h1:sIvihcW4qpN5qGSjmrsDDAbLpEq5tuHjJJfWY0Hud5Y=
