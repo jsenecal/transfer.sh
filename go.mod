@@ -1,6 +1,6 @@
 module github.com/dutchcoders/transfer.sh
 
-go 1.22.0
+go 1.25.0
 
 require (
 	github.com/Aetherinox/go-virustotal v0.0.0-20250520093927-8c526def614c
@@ -28,7 +28,7 @@ require (
 	github.com/urfave/cli/v2 v2.27.7
 	golang.org/x/crypto v0.33.0
 	golang.org/x/net v0.26.0
-	golang.org/x/oauth2 v0.17.0
+	golang.org/x/oauth2 v0.36.0
 	golang.org/x/text v0.22.0
 	google.golang.org/api v0.168.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -38,7 +38,7 @@ require (
 
 require (
 	cloud.google.com/go/compute v1.23.4 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/GehirnInc/crypt v0.0.0-20200316065508-bb7000b8a962 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.10 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.3 // indirect
