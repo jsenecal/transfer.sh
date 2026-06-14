@@ -1,6 +1,6 @@
 module github.com/dutchcoders/transfer.sh
 
-go 1.22.0
+go 1.24.0
 
 require (
 	github.com/Aetherinox/go-virustotal v0.0.0-20250520093927-8c526def614c
@@ -23,13 +23,13 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.27
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
-	github.com/tg123/go-htpasswd v1.2.1
+	github.com/tg123/go-htpasswd v1.2.5
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	github.com/urfave/cli/v2 v2.27.7
-	golang.org/x/crypto v0.33.0
-	golang.org/x/net v0.26.0
+	golang.org/x/crypto v0.45.0
+	golang.org/x/net v0.47.0
 	golang.org/x/oauth2 v0.17.0
-	golang.org/x/text v0.22.0
+	golang.org/x/text v0.31.0
 	google.golang.org/api v0.168.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	storj.io/common v0.0.0-20240812101423-26b53789c348
@@ -39,7 +39,7 @@ require (
 require (
 	cloud.google.com/go/compute v1.23.4 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
-	github.com/GehirnInc/crypt v0.0.0-20200316065508-bb7000b8a962 // indirect
+	github.com/GehirnInc/crypt v0.0.0-20230320061759-8cc1b52080c5 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.10 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.3 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.33 // indirect
@@ -94,8 +94,8 @@ require (
 	go.opentelemetry.io/otel/metric v1.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/sync v0.11.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20240205150955-31a09d347014 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240304161311-37d4d3c04a78 // indirect
