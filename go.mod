@@ -1,6 +1,6 @@
 module github.com/dutchcoders/transfer.sh
 
-go 1.22.0
+go 1.25.0
 
 require (
 	github.com/Aetherinox/go-virustotal v0.0.0-20250520093927-8c526def614c
@@ -29,7 +29,7 @@ require (
 	golang.org/x/crypto v0.33.0
 	golang.org/x/net v0.26.0
 	golang.org/x/oauth2 v0.17.0
-	golang.org/x/text v0.22.0
+	golang.org/x/text v0.40.0
 	google.golang.org/api v0.168.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	storj.io/common v0.0.0-20240812101423-26b53789c348
@@ -94,7 +94,7 @@ require (
 	go.opentelemetry.io/otel/metric v1.24.0 // indirect
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
-	golang.org/x/sync v0.11.0 // indirect
+	golang.org/x/sync v0.22.0 // indirect
 	golang.org/x/sys v0.30.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20240205150955-31a09d347014 // indirect
